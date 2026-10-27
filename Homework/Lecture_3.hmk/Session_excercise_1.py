@@ -1,0 +1,4 @@
+import Session_excercise_1_module
+print(Session_excercise_1_module.title)
+print(Session_excercise_1_module.rating)
+print(Session_excercise_1_module.year)
