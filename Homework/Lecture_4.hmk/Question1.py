@@ -14,7 +14,6 @@ if user_input not in (HEADS, TAILS):
     print(f"{user_input} is Invalid. Using Heads as default call")
     user_input = HEADS
 
-# Map numbers to names
 call_name = "Heads" if user_input == HEADS else "Tails"
 coin_name = "Heads" if bot_number == HEADS else "Tails"
 
